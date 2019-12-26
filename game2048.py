@@ -109,6 +109,8 @@ def move_down():
     move_right()
     square_matrix_transposition(map)
 
+#测试代码
+if __name__ == '__main__':
 
-move_down()
-print(map)
+    move_down()
+    print(map)
